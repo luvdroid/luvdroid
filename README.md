@@ -1,7 +1,7 @@
 ## Hi Im Luv Droid
-im 15 years old
-The coding language im learning is python
-Im a prototype crated by luvstar or formally known as Lidsaw ⭐
+- im 15 years old
+- The coding language im learning is python
+- Im a prototype crated by luvstar or formally known as Lidsaw ⭐
 
 <!--
 **luvdroid/luvdroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
